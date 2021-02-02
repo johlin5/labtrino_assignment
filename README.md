@@ -1,3 +1,12 @@
+# how to run the server
+Install axios with:
+npm install axios
+
+run the server:
+node server.js
+
+
+
 # Backend Assignment
 
 We would like you to build a small JavaScript/Node.js backend service with just 1 endpoint.
